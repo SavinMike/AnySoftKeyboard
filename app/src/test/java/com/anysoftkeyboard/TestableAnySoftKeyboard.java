@@ -9,10 +9,8 @@ import android.view.inputmethod.InputMethodManager;
 import android.view.inputmethod.InputMethodSubtype;
 
 import com.anysoftkeyboard.addons.AddOn;
-import com.anysoftkeyboard.dictionaries.WordComposer;
 import com.anysoftkeyboard.dictionaries.Suggest;
-import com.anysoftkeyboard.gesturetyping.GestureTypingDetector;
-import com.anysoftkeyboard.gesturetyping.GestureTypingDetectorTest;
+import com.anysoftkeyboard.dictionaries.WordComposer;
 import com.anysoftkeyboard.ime.InputViewBinder;
 import com.anysoftkeyboard.keyboards.AnyKeyboard;
 import com.anysoftkeyboard.keyboards.GenericKeyboard;
